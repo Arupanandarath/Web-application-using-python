@@ -1,4 +1,4 @@
 
-# Web application using python
+# Web gui application using python
 
 
